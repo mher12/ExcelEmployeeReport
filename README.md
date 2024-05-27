@@ -1,4 +1,4 @@
-# Excel_Employee_Report
+### Excel_Employee_Report
 
 **Description:** This was a graded project in which showcases my knowledge and ability of using the following methods within Excel:  
 Statistical Methods, formula, Pivot tables, Slicers, and XLookup to create relationship between tables in excel. 
