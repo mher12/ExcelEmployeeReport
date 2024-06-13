@@ -8,6 +8,6 @@ The dataset contained two tables. One table contains Employee department and sal
 **Results:** Review Employee demographics and assigned appropriate bonus percentage accordingly.  
 **Quick View:**  
 
-<img src="https://github.com/mher12/HR-Dashboard-P2/blob/main/hr-db-p2.PNG" alt="dark themed dashboard with employee demographics" width="150" height="100">  
+<img src="https://github.com/mher12/ExcelEmployeeReport/blob/main/excel-report.PNG" alt="sample excel salary report" width="150" height="100">  
 
 
